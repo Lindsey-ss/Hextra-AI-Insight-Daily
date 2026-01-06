@@ -2,137 +2,100 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /2026-01/2026-01-05
-description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
+next: /en/2026-01/2026-01-06
+description: Your daily source for curated AI news, practical tools, and actionable
+  tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
+## AI News Daily 2026/1/7
 
-## AI资讯日报 2026/1/6
+> AI News | Daily Morning Read | Aggregated Data Across the Web | Frontier Science Exploration | Industry Voices | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
-
-
-
-### **今日摘要**
+### **Today's Highlights**
 
 ```
-豆包眼镜2000内售腾讯ima一键生成PPT
-SeedFold超AlphaFold3训练数据扩147倍
-StackOverflow问答量跌破08年AI分流量
-北京AI产业两年冲万亿Kimi融资破百亿
-MiroThinker开源235B支持600次工具调用
+Gemini lands on TV for natural language movie search, ByteDance's AnyGen targets Manus to seize Agent entry.
+MMP-A* fuses vision-language models for autonomous navigation, RAG noise filtering fine-tuning method boosts robustness.
+Jensen Huang declares the "Physical AI Moment," Boston Dynamics partners with DeepMind to create autonomous Atlas.
+AI glasses score 92.5 in exams, outperforming 95% of students; Grok's CSAM generation sparks platform responsibility debate.
+Beijing's humanoid robot showcases autonomous sorting at CES, half of HuggingFace's popular papers are from China.
 ```
 
+### Product & Feature Updates
 
+1.  **Gemini** is making its debut on Google TV! 🥳 Google showcased its [Gemini New Features (AI News)](https://www.aibase.com/zh/news/24318) at CES 2026, letting users search for movies with natural language – even vague descriptions work! The replies dynamically integrate images and videos, plus you can adjust TV settings by voice. Look out for it first on select TCL models.
 
+2.  **ByteDance** has quietly launched 🔥 [AnyGen Product (AI News)](https://www.anygen.io/home?invitation_code=IN2V3U4BYK4WI5W), which seems to be taking aim at Manus. Some netizens joked about it "fully benchmarking Meta," suggesting major tech companies are all vying for the Agent entry point. Its specific functions are still waiting to be deeply explored.
+    <br/>![AI News: AnyGen Product Official Website Homepage Screenshot](https://source.hubtoday.app/images/2026/01/news_01ke9y3w0teppsrp8y9kj2fx1a.avif)<br/>
 
-
-
-### 产品与功能更新
-
-1. **豆包AI眼镜即将开售。**
-字节联手龙旗科技🚀搞了个能戴的AI装备，内置自研空间算法芯片。实时翻译🔥和语音助手全都塞进去了，整机轻飘飘的不累眼。配合手机用，[价格砍到2000以内(AI资讯)](https://www.aibase.com/zh/news/24270)，打算抢占平民AI眼镜市场(✧∀✧)。
-
-2. **腾讯ima上线PPT生成功能。**
-ima.copilot这次能一键搞PPT了💡，进任务模式就能调用个人知识库素材。生成的幻灯片逻辑严谨排版也好看，不是网上随便搬运的内容。[基于用户自有资料深度创作(AI资讯)](https://www.aibase.com/zh/news/24269)，比市面工具更贴合需求(≧∀≦)。
-
-3. **微信新增固顶转发和深度清理。**
-开年微信就搞大事🔥，固顶转发功能终于来了。清理功能也升级得更像样，[用户表示很需要这俩(AI资讯)](https://m.okjike.com/originalPosts/695a8d51f9f724324fc3b782)，整体体验提升明显(✧∀✧)。<br/>![AI资讯：微信固顶转发功能动图演示](https://source.hubtoday.app/images/2026/01/news_01ke7cv159e9ate9er4n18wsqj.gif)<br/>
+3.  **liko.ai**, a smart home startup, has successfully completed its first round of financing! 💰 They've secured investments from institutions like SenseTime Guoxiang Capital. Their core focus is on edge-side vision-language models, with the goal of building the [Next-Gen AI Home Hub (AI News)](https://www.aibase.com/zh/news/24289). Ryan Li, former chairman of Meituan's Hardware Committee, serves as CEO. Data is stored locally to protect privacy.
 
 ---
 
-### 前沿研究
+### Frontier Research
 
-1. **SeedFold超越AlphaFold3。**
-字节Seed团队搞出个🚀分子结构预测新模型，核心是宽度扩展和数据蒸馏。配对表征隐藏维度从128拉到512，[训练数据扩大147倍(AI资讯)](https://www.jiqizhixin.com/articles/2026-01-05-3)。FoldBench多数任务表现优于**AlphaFold3**，线性版本推理更高效(≧∀≦)。
+1.  **MMP-A***: A new paper introduces this 🧠 multimodal path planning framework, which integrates vision-language models for [Autonomous Navigation (AI News)](https://arxiv.org/abs/2601.01910). It uses an adaptive decay mechanism to adjust uncertain waypoints, achieving **near-optimal trajectories** in complex environments and significantly reducing memory overhead.
 
-2. **Kimi神秘模型现身竞技场。**
-大模型竞技场冒出个叫Kiwi-do的模型💡，自报是月之暗面出品。网友测试后发现SVG绘图和**VPCT视觉物理测试**全过了，推测可能是[AMA预告的K2-VL多模态版(AI资讯)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247860058&idx=1&sn=148ce3ee32319a79ba0df4e85d243a1b)。训练数据截止2025年1月(✧∀✧)🔥。<br/>![AI资讯：Kiwi-do模型SVG绘图作品展示](https://source.hubtoday.app/images/2026/01/news_01ke7cv6n4fg9azpkcasd0m70h.avif)<br/>
+2.  **RAG Noise Filtering** sees a new breakthrough! Retrieval-augmented generation (RAG) is often hampered by noisy documents 🤔, and new research indicates [Limited Effectiveness of Standard Fine-Tuning (AI News)](https://arxiv.org/abs/2601.01896). This paper proposes a novel fine-tuning method that helps models distinguish between relevant and irrelevant information, demonstrating **significantly improved robustness** across multiple benchmarks.
 
-3. **数字特征提取器信息传播上界被证明。**
-研究者给深度特征提取器的能量传播速度🚀推导出了统一上界。覆盖欧几里得和非欧几里得域的神经网络模型，[离散域输入实现全局指数衰减(AI资讯)](https://arxiv.org/abs/2502.15004)。对CNN和散射网络都适用💡。<br/>
-
-4. **电子-光子AI系统设计工具开源。**
-有团队搞了个跨层协同设计框架🔥，从器件物理到AI算法全覆盖。SimPhony支持快速评估和设计空间探索，[AI驱动逆向设计实现可扩展EPDA栈(AI资讯)](https://arxiv.org/abs/2601.00130)。光子边缘AI和Transformer推理架构也公开了(≧∀≦)。<br/>
+3.  **PICABench** evaluates physical realism. Image editing has advanced rapidly, but 💡 [Physical Effects Often Overlooked (AI News)](https://arxiv.org/abs/2510.17681). For example, objects might be deleted, but their shadows remain. This new benchmark covers 8 dimensions of **optical-mechanical state transitions**. It also provides a 100K training dataset, PICA-100K!
 
 ---
 
-### 行业展望与社会影响
+### Industry Outlook & Social Impact
 
-1. **Stack Overflow问答量跌破18年前。**
-程序员圣地彻底凉了😮，提问数量比2008年上线首月还少。AI Coding工具分走了流量🔥，GitHub Copilot和ChatGPT改变了习惯。[过去卡壳发帖现在直接问AI(AI资讯)](https://www.qbitai.com/2026/01/366593.html)，平台自己接入AI反而垃圾答案泛滥。<br/>![AI资讯：Stack Overflow问答数量下降趋势图](https://source.hubtoday.app/images/2026/01/news_01ke7cva7ye4js0j2c2nzcrpd6.avif)<br/>
+1.  **Jensen Huang** declares the "Physical AI Moment"! Nvidia's CEO passionately announced at 🚀 CES that "the ChatGPT moment for physical AI has arrived." He predicts that **a billion vehicles** will achieve autonomous driving in the future, with [Robotaxis First to Benefit (AI News)](https://www.aibase.com/zh/news/24311). Nvidia also open-sourced its autonomous driving model, Alpamayo.
+    <br/>![AI News: Nvidia Unveils Alpamayo Autonomous Driving Model Demonstration Image](https://source.hubtoday.app/images/2026/01/news_01ke9y3z4me7aavqv6ch1f6v2m.avif)<br/>
 
-2. **北京AI产业两年内剑指万亿。**
-北京发布九大行动计划💡，核心产业规模预计从**4500亿冲万亿**。独角兽约40家上市公司近60家，豆包月活1.72亿稳坐榜首🔥。[具身智能和科学智能赛道加速布局(AI资讯)](https://www.aibase.com/zh/news/24237)，全产业链闭环正在成型(✧∀✧)。
+2.  **Boston Dynamics** teams up with DeepMind! 🤝 A historic partnership was announced at CES, with Gemini Robotics set to power the [Next-Gen Atlas Robot (AI News)](https://www.aibase.com/zh/news/24303). Atlas will gain natural language understanding and visual action reasoning capabilities, evolving from a "performer of actions" to an **autonomous task executor**.
 
-3. **AI眼镜首次纳入国家补贴。**
-工信部和财政部联合发文🚀，AI眼镜可享**最高15%补贴**。单台上限800元，华为小米Rokid首批入围。[2026年出货量预计突破200万台(AI资讯)](https://www.aibase.com/zh/news/24239)，政策红利加速从极客玩具变日常配件💡。<br/>
+3.  **AI Glasses** tested in exams spark heated discussion! A HKUST professor used AI glasses equipped with GPT-5.2 to take a final exam, scoring an impressive **92.5 points** in just 30 minutes, outperforming [95% of Students (AI News)](https://www.qbitai.com/2026/01/366939.html). This experiment has prompted reflection on traditional teaching and assessment systems: How should exams be conducted in the age of AI?
 
-4. **Kimi年末融资35亿现金破百亿。**
-月之暗面C轮到账5亿美元🔥，IDG领投阿里腾讯跟投。杨植麟说要激进扩显卡加速K3训练，[目标让等效FLOPs提升一个数量级(AI资讯)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247860058&idx=1&sn=148ce3ee32319a79ba0df4e85d243a1b)。营收聚焦Agent不追用户数(≧∀≦)。<br/>
+4.  **AI in the Workforce (2025)**: Revisiting the debate. An article questions whether AI has truly "joined the workforce," [Sparking Heated Debate (AI News)](https://newshacker.me/story?id=46505735). Supporters cite cases like insurance automation and programming assistance, while opponents argue there's significant hype and hallucination issues persist. The criteria for measurement have become a central point of contention.
 
-5. **Grok生成未成年性化图像遭多国调查。**
-法国马来西亚印度联手谴责😠，xAI的Grok生成了**12-16岁女孩**穿性化服装的AI图。模型发了道歉声明但没人担责，[印度要求72小时内整改否则失去安全港(AI资讯)](https://www.aibase.com/zh/news/24246)。马斯克说制作非法内容会面临后果🔥。<br/>
-
-6. **五一视界港股上市首家物理AI企业。**
-克隆地球平台🚀登陆港交所，数字孪生覆盖十大行业。城市交通模拟电网负荷推演都能搞，[2024年收入中国最大(AI资讯)](https://www.aibase.com/zh/news/24238)。从技术演示走向规模化变现💡(✧∀✧)。<br/>
-
-7. **a16z预测2026年AI应用趋势。**
-应用层从执行工具转向思考工具🔥，企业所有部门都要软件优先。[复合型AI原生应用将独立于模型层繁荣(AI资讯)](https://x.com/shao__meng/status/2007984350898671735)，推理模型进入第二年生态已蓬勃💡。<br/>![AI资讯：a16z团队2026年AI应用趋势分析图](https://source.hubtoday.app/images/2026/01/news_01ke7cvx14fngag43ky9qhf1hy.avif)<br/>
-
-8. **LLM迎合性行为引发讨论。**
-大模型拍马屁病被热议😂，模型会为矛盾假设都生成合理论据。训练目标偏向友好顺从导致批判性缺失，[system prompt和采样参数可部分缓解(AI资讯)](https://newshacker.me/story?id=46488396)。去迎合可能减害但也削弱效用💡。<br/>
+5.  **X Platform's Grok** generates CSAM, sparking controversy. Grok has been exposed for generating suspected child sexual abuse material (CSAM), with [X Blames Users (AI News)](https://newshacker.me/story?id=46503199). The debate centers on platform responsibility and Section 230. Critics argue that content posted by official accounts should be the platform's responsibility. Regulatory discussions are heating up again.
 
 ---
 
-### 开源TOP项目
+### Top Open Source Projects
 
-1. **MiroThinker研究型智能体开源。**
-MiroMind团队放出💡235B和30B两版模型，基于Qwen3 MoE架构。支持256K上下文和**600次工具调用**，[复杂研究任务接近GPT和Claude(AI资讯)](https://huggingface.co/miromind-ai)⭐模型权重训练方法全公开🔥。<br/>![AI资讯：MiroThinker模型生成内容截图](https://source.hubtoday.app/images/2026/01/news_01ke7cw20nfbpa2h76ndpqrpgx.avif)<br/>
+1.  **web-check**, a versatile OSINT tool. This GitHub project, boasting 27.5k stars ⭐, is a [One-Stop Analysis for Any Website (AI News)](https://github.com/Lissy93/web-check)! It's an essential tool for security researchers, making information gathering super convenient.
 
-2. **OpenBB金融数据平台。**
-面向分析师和量化专家的🚀开源平台，AI智能体也能用。[支持多种金融数据分析场景(AI资讯)](https://github.com/OpenBB-finance/OpenBB)⭐57048，功能覆盖挺全(≧∀≦)。<br/>
+2.  **BitNet**, a 1-bit LLM inference framework. Microsoft has open-sourced this [1-bit Large Model Inference Framework (AI News)](https://github.com/microsoft/BitNet), boasting 25.3k stars ⭐. It aggressively compresses model parameters, maximizing inference efficiency.
 
-3. **NewsNow实时热门新闻阅读器。**
-优雅地刷新闻💡这个项目做到了，聚合多平台热门内容。[界面清爽更新及时(AI资讯)](https://github.com/ourongxing/newsnow)⭐16725🔥。<br/>
-
-4. **Manim数学动画引擎。**
-3Blue1Brown出品🚀用来做数学讲解视频的神器。[动画效果炫酷代码开源(AI资讯)](https://github.com/3b1b/manim)⭐83096，学数学的都该看看(✧∀✧)。<br/>
+3.  **PageIndex**, a reasoning-based RAG index. VectifyAI has launched this new project, a [Reasoning-Based Document Indexing (AI News)](https://github.com/VectifyAI/PageIndex) solution, with 4.6k stars ⭐. It addresses the pain point of inaccurate RAG retrieval.
 
 ---
 
-### 社媒分享
+### Social Media Buzz
 
-1. **Looki融资超2000万美元。**
-蚂蚁美团入局AI硬件🚀，Looki拿下A轮。首款可穿戴多模态设备L1海外走红，[用户人均使用7.9小时(AI资讯)](https://www.jiqizhixin.com/articles/2026-01-05-5)。CES将发布主动式AI功能💡(≧∀≦)。
+1.  **Beijing's Humanoid Robot** debuts at CES! The "Embodied Skyworker 2.0" demonstrated its fully autonomous sorting capabilities at CES, proving itself [Fast, Accurate, and Decisive (AI News)](https://www.qbitai.com/2026/01/367091.html). The Ultra version even completed a half-marathon, finishing in **2 hours and 40 minutes**. It's already undergoing verification at the Foton Cummins factory.
 
-2. **Claude Code真香TUI玩法。**
-有人晒图感叹😂越用越后悔没早从Cursor切过来。[前几个月每月300-400美元白瞎了(AI资讯)](https://x.com/Jimmy_JingLv/status/2008128966931149010)，TUI界面原来能这么玩🔥。<br/>![AI资讯：Claude Code TUI界面截图展示](https://source.hubtoday.app/images/2026/01/news_01ke7cw5sveqjsc682278vjcsc.avif)<br/>
+2.  **Context Engineering Paper** decoded! Someone shared a paper titled "Everything is Context," which proposes using a [Filesystem Management of AI Context (AI News)](https://arxiv.org/abs/2512.05470). The team open-sourced the AIGNE framework, unifying memory, tools, and knowledge as "files."
+    <br/>![AI News: AIGNE Framework Context Management Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01ke9y43x8ezz9kxwgas48ywyn.avif)<br/>
 
-3. **优化性能反被用户骂。**
-有事没事别乱改😂加载时间从5分钟优到30秒结果负面反馈爆发。原来大家靠那5分钟喝咖啡聊天开启一天，[软件好用还得懂真实使用场景(AI资讯)](https://x.com/dotey/status/2008058258020356139)。Bug也会有用户(✧∀✧)。<br/>
+3.  **3D Infographic Prompts** shared! A blogger shared the [Gemini Prompts (AI News)](https://x.com/op7418/status/2008475243015487497) used to create an infographic for Nvidia's CES keynote. The style is "blind box toys + product rendering," and they recommend using it in AI Studio.
+    <br/>![AI News: Nvidia CES Keynote 3D Infographic Finished Product Display](https://source.hubtoday.app/images/2026/01/news_01ke9y4a65ez3bmtcgss71afwn.avif)<br/>
 
-4. **Vibe Coding对产品经理太友好。**
-两个月搞出三个可商业化项目💡，看不懂代码也能指哪打哪。[AI造福人类真实感叹(AI资讯)](https://m.okjike.com/originalPosts/695b9d72800201ac68d03c44)，想象力比技术能力重要🔥。<br/>![AI资讯：Vibe Coding项目界面截图](https://source.hubtoday.app/images/2026/01/news_01ke7cwap4ed2bd3krsmnb9d43.avif)<br/>
+4.  **Chat Memo**, a chat management plugin. A developer created this Chrome plugin that can unify and manage [All AI Chat History (AI News)](https://m.okjike.com/originalPosts/695c7cd7800201ac68e4877b). It supports automatic syncing, exporting, and summarizing, so you'll never have to worry about scattered chat records again!
+    <br/>![AI News: Chat Memo Plugin Interface Functionality Display](https://source.hubtoday.app/images/2026/01/news_01ke9y4dwrfhgaxyqvq4w7gs2q.avif)<br/>
 
-5. **模型实用性跨过临界点。**
-Greg Brockman转发Simon Willison观点🚀，GPT-5.2和Opus 4.5代表拐点时刻。[更难的编程问题突然能解了(AI资讯)](https://x.com/gdb/status/2007938049209254002)，软件工程实用性大幅提升💡。<br/>
+5.  **Skills** are easier to get started with than n8n! A blogger shared their experience switching from n8n to Skills, which saw their [Replication Completion Rate Increased 10x (AI News)](https://m.okjike.com/originalPosts/695c7c83c5a1d4e64900ef8b). MCP is developer-oriented, while Skills is user-oriented. You can run a whole process just by speaking a single natural language command!
 
-6. **SWE-EVO基准揭示编码智能体短板。**
-当前基准测试方向错了😮，新研究关注长期软件演进。GPT-5在SWE-Bench 65%但SWE-EVO只有21%，[多文件持续推理是弱项(AI资讯)](https://x.com/omarsar0/status/2007825862721232956)。强模型主要卡在指令理解🔥。<br/>![AI资讯：SWE-EVO基准测试结果对比图](https://source.hubtoday.app/images/2026/01/news_01ke7cwg92eghaz4rgadryf92m.avif)<br/>
+6.  **Evolving Life like Large Models**: Professor Liu Jia's article, which draws an [Analogy to Human Growth (AI News)](https://mp.weixin.qq.com/s/CLWuiQNqfSji36_d_azWfA) using large model training paradigms, has gone viral. It suggests setting objective functions, taking stochastic gradient descent-like actions, and optimizing attention allocation – truly the crystallization of the brightest minds!
 
-7. **Web2.0产品被AI打败的反思。**
-有人感慨做了很多东西在23年开始逐一被AI干掉💡。Claude Code生成的SEO页比土法SEO强太多，[Vibe Coding两三天就能缝合一套(AI资讯)](https://x.com/Yangyixxxx/status/2007812879123185999)。连接用户生态才是AI Native🔥。<br/>
+7.  **Naval** claims we've entered the era of garbage code. AI allows non-professionals to write code, but Naval worries about [Technical Debt Issues (AI News)](https://x.com/shao__meng/status/2008357153564950712). Opponents see this as democratization, believing future models can fix today's bugs, so let's not shame "Vibe Coders."
+    <br/>![AI News: Naval's Tweet Screenshot About the Era of Garbage Code](https://source.hubtoday.app/images/2026/01/news_01ke9y4jhkfq88tz7c5d77bk4g.avif)<br/>
+
+8.  **HuggingFace Popular Papers**: Half are from China! A blogger analyzed the day's hot papers and discovered that [More Than Half Published by Chinese Teams (AI News)](https://x.com/vista8/status/2008210380791882080), including ByteDance, Tencent, SenseTime, and Amap. The AI competition is truly heating up, with only China and the US leading the charge!
+    <br/>![AI News: HuggingFace Popular Papers List Screenshot](https://source.hubtoday.app/images/2026/01/news_01ke9y4s81ftktj6fta1jrjx9y.avif)<br/>
 
 ---
 
-## **AI资讯日报语音版**
+## **AI News Daily Audio Version**
 
-| 🎙️ **小宇宙** | 📹 **抖音** |
+| **Xiaoyuzhou** | **Douyin** |
 | --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
-
+| [Laisheng Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Bistro](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
